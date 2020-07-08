@@ -1,0 +1,40 @@
+{
+  "embed": {
+    "description":"_ _",
+    "color": 14666780,
+    "timestamp": "2020-05-26T12:42:34.890Z",
+    "footer": {
+      "icon_url": "https://awesomewebm.org/database/GoTest365bot-Logotp.png",
+      "text": "Bridgeport Hotels is a division of GoTestRBLX"
+    },
+    "thumbnail": {
+      "url": "https://awesomewebm.org/database/GoTest365bot-Logotp.png"
+    },
+    "author": {
+      "name": "Bridgeport Hotels Rules"
+    },
+    "fields": [
+      {
+        "name": "Minor Violations will result in a warning, repeat offenders will receive a strike",
+        "value": "_ _"
+      },
+      {
+        "name": "After 3 warns, you will receive a strike",
+        "value": "_ _"
+      },
+      {
+        "name": "Major Violations may result in more strikes, longer mutes, upto a permanent ban.",
+        "value": "_ _"
+      },
+      {
+        "name": "We reserve the right to increase the severity for any violation which depending on the case, may result in a ban from all GoTestRBLX official games/servers",
+        "value": "_ _"
+      },
+      {
+        "name": "The Following Roles have Moderation Abilities:",
+        "value": "<@&705897190702448662>\n<@&705897190710837367>"
+      }
+      
+    ]
+  }
+}

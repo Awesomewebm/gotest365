@@ -1,0 +1,32 @@
+{
+  "embed": {
+    "description":"Welcome to our ticket system",
+    "url": "https://discordapp.com",
+    "color": 14666780,
+    "timestamp": "2020-05-01T12:49:34.890Z",
+    "footer": {
+      "icon_url": "https://awesomewebm.org/database/GoTest365bot-Logotp.png",
+      "text": "Bridgeport Hotels is a division of GoTestRBLX"
+    },
+    "thumbnail": {
+      "url": "https://awesomewebm.org/database/GoTest365bot-Logotp.png"
+    },
+    "author": {
+      "name": "Bridgeport Hotels"
+    },
+    "fields": [
+      {
+        "name": "Instructions:",
+        "value": "1. Run ``-new [subject]``\n2. You will be taken to a ticket channel where you can present your query\n3. Tell the staff clearly what you need\n4. When finished, a staff member will close the ticket"
+      },
+      {
+        "name": "Reportable Issues:",
+        "value": "Moderation\nReport A User\nBugs/Glitches\nOther"
+      },
+      {
+        "name": "Rules For Sending Tickets:",
+        "value": "1. Clearly state your issue & attach any files as needed\n2. The server rules still apply\n3. Do not go off-topic in a ticket unless you have another issue\nFailure to abide by these rules will result in a blacklist from using this system"
+      }
+    ]
+  }
+}

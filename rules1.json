@@ -1,0 +1,56 @@
+{
+  "embed": {
+    "description":"Official Rules for this server",
+    "color": 14666780,
+    "timestamp": "2020-05-26T12:42:34.890Z",
+    "footer": {
+      "icon_url": "https://awesomewebm.org/database/GoTest365bot-Logotp.png",
+      "text": "Bridgeport Hotels is a division of GoTestRBLX"
+    },
+    "thumbnail": {
+      "url": "https://awesomewebm.org/database/GoTest365bot-Logotp.png"
+    },
+    "author": {
+      "name": "Bridgeport Hotels Rules"
+    },
+    "fields": [
+      {
+        "name": "1. No Harassment",
+        "value": "GoTestRBLX is a place of friendly discussion & sharing. We do not allow any kind of harassment, bullying, put downs, use of racial & religious slurs, language that attacks a group(s) or individuals, creepy & sexual comments. You are expected to be respectful to everyone at all times."
+      },
+      {
+        "name": "2. No NSFW content",
+        "value": "This extends beyond things like nudity and sexual content. This includes urine, puke, and any kind of human/animal feces. Any content considered NSFW will be immediately deleted."
+      },
+      {
+        "name": "3. No Inappropriate Jokes",
+        "value": "Inappropriate jokes about anything including (but not limited to): Suicide, self-harm, anything mentioned above or below. This includes wishing some dead/telling someone to kill themselves"
+      },
+      {
+        "name": "4. Do not abuse pings",
+        "value": "This includes pinging without reason, spam pinging, mass pinging, and ghost pinging (deleting the message). One ping is enough to get someone's attention, any more than that is annoying"
+      },
+      {
+        "name": "5. Keep content in the correct channel",
+        "value": "This is simple, anything that is off topic goes in #off-topic Bot commands in #bots etc. If your message is sent in the wrong channel, it will be deleted, followed by a warning"
+      },
+      {
+        "name": "6. Do NOT Complain about disciplinary actions taken against you",
+        "value": "If you disagree with a punishment, appeal it to a staff member in DMs.\n\n Complaining/Whining about punishments publicly , calling 'admin abuse', or anything insulting a staff member is disrespectful and will result in further punishments against you."
+      },
+      {
+        "name": "7. Do not spam",
+        "value": "Don't spam the chat, speak in a language other than English, send copypasta's, send images/use emoji's that may mentally harm other users. All of this will be deleted and punished accordingly"
+      },
+      {
+        "name": "8. Absolutly NO Drama",
+        "value": "Heated arguments or drama between memebers or staff of any kind will result in an immediate mute, and depending on the situation, further action may be taken"
+      },
+      {
+        "name": "Server Moderators have the right to punish users for the safety of the server and other users",
+        "value": "_ _"
+      }
+      
+    ]
+  }
+}

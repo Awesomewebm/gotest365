@@ -1,0 +1,25 @@
+{
+  "embed": {
+    "title": "GoTest365",
+    "color": 15313421,
+    "thumbnail": {
+      "url": "https://awesomewebm.org/cdn/bots/Webm_Face.png"
+    },
+
+
+    "fields": [
+      {
+        "name": "GoTest365",
+        "value": "This bot is designed to communicate with our games and roblox!"
+      },
+      {
+        "name": "Commands",
+        "value": "For a list of commands, run **?cmds**"
+      },
+      {
+        "name": "Need Help?",
+        "value": "Contact a member of the GoTestRBLX Council for help with the bot (Prefferably Awesomewebm)"
+      }
+    ]
+  }
+}

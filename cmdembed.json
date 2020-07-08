@@ -1,0 +1,16 @@
+{
+  "embed": {
+    "title": "Commands List",
+    "color": 15313421,
+    "thumbnail": {
+      "url": "https://awesomewebm.org/cdn/bots/Webm_Face.png"
+    },
+
+
+    "fields": [
+     {"name": "Utility Commands", "value": "**?ping** - Testing\n**?cmds** - Lists all usable commands & this menu\n**?website** - Gives you a link to the bot's website\n**?invite** - Gives you an link to invite the bot to your server\n**?info** [type] - Gives info on the bot based on input provided", "inline": true},
+     {"name": "Moderation Commands", "value": "**?kick** [@user] (reason) - Kicks a user from the server \n`Kick Members` is required to run this command\n**?ban** [@user] (reason) - Bans a user from the server\n`Ban Members` is required to run this command\n**?warn** [@user] (reason) - Warns a user for a specified reason\n`Kick Members` or `Manage Messages` is required to run this command\n**?clear** [#msg 1-100] - Clears messages from the current channel\n`Manage Messages` is required to run this command", "inline": true},
+     {"name": "Alpha Commands (Work in Progress)", "value": "**?clock** [timezone]\n**?say** [channel] [msg]\n`Manage Messages` is required to run this command\n", "inline": true}
+    ]
+  }
+}

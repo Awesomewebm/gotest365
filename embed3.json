@@ -1,0 +1,34 @@
+{
+  "embed": {
+    "color": 14666780,
+    "timestamp": "2020-05-01T12:49:34.890Z",
+    "footer": {
+      "icon_url": "https://awesomewebm.org/database/GoTest365bot-Logotp.png",
+      "text": "GoTest365"
+    },
+    "thumbnail": {
+      "url": "https://awesomewebm.org/database/GoTest365bot-Logotp.png"
+    },
+    "author": {
+      "name": "Bridgeport Hotels"
+    },
+    "fields": [
+      {
+        "name": "Channel Instructions",
+        "value": "This channel is for managing applications sent in\nusing the MyCenter system."
+      },
+       {
+        "name": "How to Manage Applications",
+        "value": "React appropriately to any of the reactions on the bot's messages below. Please only accept the most acceptable applications and ones that do not break the rules. Use common sense!\n:white_check_mark: Accept\n:x: Decline"
+      },
+      {
+        "name": "IMPORTANT!!!",
+        "value": "***UNDER NO CIRCUMSTANCES SHOULD YOU CLICK THE :warning: REACTION!\nUNLESS THE APPLICATION IS LEGIT SPAM/ToS VIOLATION***\nDO NOT CLICK THIS REACTION"
+      },
+      {
+        "name": "Staff Access:",
+        "value": "In order to use this system, you must have an account on [MyCenter](https://mycenterrblx.net) and have your discord account verified. YOU DO NOT NEED TO MAKE ANY APPLICATION CENTERS! After Doing So, please Ping/DM Awesomewebm and he will add you to the bot/dashboard\n\nThe Dashboard "
+      }
+    ]
+  }
+}

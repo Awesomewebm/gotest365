@@ -1,0 +1,15 @@
+{
+  "embed": {
+    "title": "Invite me Here!",
+    "color": 15313421,
+    "thumbnail": {
+      "url": "https://awesomewebm.org/cdn/bots/Webm_Face.png"
+    },
+
+
+    "fields": [
+     {"name": "...", "value": "THis bot cannot be invited", "inline": true}
+     
+    ]
+  }
+}

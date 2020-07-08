@@ -1,0 +1,26 @@
+{
+  "embed": {
+    "color": 14666780,
+    "timestamp": "2020-05-01T12:49:34.890Z",
+    "footer": {
+      "icon_url": "https://awesomewebm.org/database/GoTest365bot-Logotp.png",
+      "text": "Job Applications"
+    },
+    "thumbnail": {
+      "url": "https://awesomewebm.org/database/GoTest365bot-Logotp.png"
+    },
+    "author": {
+      "name": "Bridgeport Hotels"
+    },
+    "fields": [
+      {
+        "name": "Applying for a Job",
+        "value": "Visit this link to apply for a job at Bridgeport Hotels, we'd love to have you on our team!"
+      },
+       {
+        "name": "Link",
+        "value": "[Apply Here](https://www.roblox.com/games/4971727176/BH-Application-Center)\nYou can also run `!apply`in #bots"
+      }
+    ]
+  }
+}
